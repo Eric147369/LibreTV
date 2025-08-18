@@ -106,8 +106,7 @@ const API_SITES = {
         api: 'https://wwzy.tv/api.php/provide/vod',
         name: '旺旺短剧'
     },
-    //ARCHIVE https://telegra.ph/APIs-08-12
-};
+
 
 // 定义合并方法
 function extendAPISites(newSites) {
